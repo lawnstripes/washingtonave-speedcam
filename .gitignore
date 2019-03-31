@@ -1,0 +1,6 @@
+#imgs directory#
+/imgs
+#settings pickle#
+speedcam_settings.p
+#csv logs#
+*.csv
